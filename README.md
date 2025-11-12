@@ -23,3 +23,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="70" height="70"/>&nbsp
 </div>
+
+---
+
+### :postbox: If you want to collaborate:
+- :email: [studennickovartem@yandex.ru](studennickovartem@yandex.ru)
