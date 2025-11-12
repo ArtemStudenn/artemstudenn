@@ -27,4 +27,4 @@
 ---
 
 ### :postbox: If you want to collaborate:
-- :email: [studennickovartem@yandex.ru](studennickovartem@yandex.ru)
+- :email: [studennickovartem@yandex.ru](mailto:studennickovartem@yandex.ru)
