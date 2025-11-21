@@ -27,4 +27,5 @@
 ---
 
 ### :postbox: If you want to collaborate:
-- :email: [studennickovartem@yandex.ru](mailto:studennickovartem@yandex.ru)
+- :email: Email: [studennickovartem@yandex.ru](mailto:studennickovartem@yandex.ru)
+- :pager: Telegram: [@artembobss](https://t.me/artembobss)
